@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ejemploFrakment</string>
+    <string name="perfil">Perfil</string>
+    <string name="inicio">Inicio</string>
+    <string name="carrito">Carrito</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidod" />
+    <string name="correo_electronicov" />
+    <string name="inicio_fragment">Inicio Fragment</string>
+    <string name="apellido">Apellido</string>
+</resources>
